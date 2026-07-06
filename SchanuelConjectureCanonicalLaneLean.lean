@@ -1,0 +1,7 @@
+-- This module is the root of the SchanuelConjectureCanonicalLaneLean Lean proof package.
+import SchanuelConjectureCanonicalLaneLean.Basic
+import SchanuelConjectureCanonicalLaneLean.SourcePackage
+import SchanuelConjectureCanonicalLaneLean.SourceDependencies
+import SchanuelConjectureCanonicalLaneLean.Formalization
+import SchanuelConjectureCanonicalLaneLean.ReviewerBridge
+import SchanuelConjectureCanonicalLaneLean.TheoremStatement
